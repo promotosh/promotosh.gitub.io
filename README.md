@@ -1,1 +1,1 @@
-# promotosh.gitub.io
+# promotosh
